@@ -2,9 +2,6 @@
 # CS325 Homework 2
 # January 2022
 
-"""I turned this assignment in on time but thought -10% for turning it in finished would be better than the grade I
-would get for turning it on time but with lots of problems. I tried to run these on the engineering servers but it kept
-saying permission denied"""
 
 dataList = []
 itemCollection = []
